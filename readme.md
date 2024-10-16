@@ -39,11 +39,8 @@ To get started with the **Principal Component Analysis Sn** solution repository,
  ![additional_image](principal_component_analysis_sn.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
