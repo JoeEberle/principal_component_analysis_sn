@@ -2,7 +2,7 @@
 Welcome to the solution **Principal Component Analysis Sn** - an example for your projects
 
 Principal Component Analysis (PCA) is a dimensionality reduction technique that transforms a large set of variables into a smaller set of uncorrelated variables called principal components, while retaining as much variance in the data as possible.
-![Image image_filename](sample.png)
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
