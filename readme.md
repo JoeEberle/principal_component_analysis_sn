@@ -1,4 +1,7 @@
-![Image image_filename](solution_sign.png)# Principal Component Analysis Sn - Principal Component Analysis (PCA) is a dimensionality reduction technique that transforms a large set of variables into a smaller set of uncorrelated variables called principal components, while retaining as much variance in the data as possible.![Image image_filename](code.png)
+![Image image_filename](solution_sign.png)
+    # Principal Component Analysis Sn 
+    ## Principal Component Analysis (PCA) is a dimensionality reduction technique that transforms a large set of variables into a smaller set of uncorrelated variables called principal components, while retaining as much variance in the data as possible.
+    ![Image image_filename](code.png)
 Welcome to the solution **Principal Component Analysis Sn** - an example for your projects
 
 Principal Component Analysis (PCA) is a dimensionality reduction technique that transforms a large set of variables into a smaller set of uncorrelated variables called principal components, while retaining as much variance in the data as possible.
@@ -12,12 +15,15 @@ To get started with the **Principal Component Analysis Sn** solution repository,
 2. Install the required dependencies listed at the top of the notebook.
 3. Explore the example code provided in the repository and experiment.
 4. Run the notebook and make it your own - **EASY !**
-    
+    ## Getting Started
 ## Solution Features
+
 - Easy to understand and use  
 - Easily Configurable 
 - Quickly start your project with pre-built templates
 - Its Fast and Automated
+- Saves You Time 
+
 
 ## Notebook Features
 
